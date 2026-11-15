@@ -1,0 +1,9 @@
+{
+  "appId": "com.midia.app",
+  "appName": "Mi Día",
+  "webDir": "www",
+  "backgroundColor": "#f7f1e6",
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_icon", "iconColor": "#D9703A" }
+  }
+}
